@@ -16,5 +16,4 @@ galaxy_info:
         - "8"
   galaxy_tags:
     - nfs
-dependencies:
-  - role: []
+dependencies: []
