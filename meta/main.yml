@@ -17,4 +17,4 @@ galaxy_info:
   galaxy_tags:
     - nfs
 dependencies:
-  - role: conf-base
+  - role: []
